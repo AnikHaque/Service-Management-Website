@@ -25,6 +25,7 @@ import Profile from './components/Profile/Profile';
 import { Blogs } from './components/Blogs/Blogs';
 import Services from './components/Services/Services';
 import About from './components/About/About';
+import { Projects } from './components/Projects/Projects';
 
 const router = createBrowserRouter([
   {
