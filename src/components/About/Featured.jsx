@@ -9,7 +9,7 @@ export const Featured = () => {
                       <div className="grid p-6 bg-gray-100 rounded place-content-center sm:p-8">
                           <div className="max-w-md mx-auto text-center lg:text-left">
                               <header>
-                                  <h2 className="text-xl font-bold text-gray-900 sm:text-3xl">Watches</h2>
+                                  <h2 className="text-xl font-bold text-gray-900 sm:text-3xl">Featured Events</h2>
 
                                   <p className="mt-4 text-gray-500">
                                       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas
@@ -21,7 +21,7 @@ export const Featured = () => {
                                   href="#"
                                   className="inline-block px-12 py-3 mt-8 text-sm font-medium text-white transition bg-gray-900 border border-gray-900 rounded hover:shadow focus:outline-none focus:ring"
                               >
-                                  Shop All
+                                  See All
                               </a>
                           </div>
                       </div>
@@ -31,40 +31,44 @@ export const Featured = () => {
                               <li>
                                   <a href="#" className="block group">
                                       <img
-                                          src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1598&q=80"
+                                          src="https://www.theweddingschool.in/wp-content/uploads/2018/09/download.jpg"
                                           alt=""
                                           className="object-cover w-full rounded aspect-square"
                                       />
 
-                                      <div className="mt-3">
-                                          <h3
-                                              className="font-medium text-gray-900 group-hover:underline group-hover:underline-offset-4"
-                                          >
-                                              Simple Watch
-                                          </h3>
-
-                                          <p className="mt-1 text-sm text-gray-700">$150</p>
-                                      </div>
                                   </a>
                               </li>
 
                               <li>
                                   <a href="#" className="block group">
                                       <img
-                                          src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1598&q=80"
+                                          src="https://www.adobe.com/content/dam/www/us/en/events/overview-page/eventshub_evergreen_opengraph_1200x630_2x.jpg"
                                           alt=""
                                           className="object-cover w-full rounded aspect-square"
                                       />
 
-                                      <div className="mt-3">
-                                          <h3
-                                              className="font-medium text-gray-900 group-hover:underline group-hover:underline-offset-4"
-                                          >
-                                              Simple Watch
-                                          </h3>
+                                     
+                                  </a>
+                              </li>
+                              <li>
+                                  <a href="#" className="block group">
+                                      <img
+                                          src="https://bdwedding.com/upload/blogimages/06f60e43214cc5075134ef7b69bfd81d.jpg"
+                                          alt=""
+                                          className="object-cover w-full rounded aspect-square"
+                                      />
 
-                                          <p className="mt-1 text-sm text-gray-700">$150</p>
-                                      </div>
+                                      
+                                  </a>
+                              </li>
+                              <li>
+                                  <a href="#" className="block group">
+                                      <img
+                                          src="https://eventreemedia.in/images/gallery/gallery-1.jpg"
+                                          alt=""
+                                          className="object-cover w-full rounded aspect-square"
+                                      />
+
                                   </a>
                               </li>
                           </ul>
