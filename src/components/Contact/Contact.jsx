@@ -1,12 +1,16 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { Subscribe } from './Subscribe';
+import {FAQ} from '../FAQ/FAQ'
+import Profile from '../Profile/Profile'
+
 
 const Contact = () => {
-
 
     return (
 
         <div className='mt-20 mb-20'>
+            <Profile></Profile>
             <div className="grid max-w-screen-xl grid-cols-1 gap-8 px-8 py-16 mx-auto rounded-lg md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 bg-gray-100 text-gray-800">
                 <div className="flex flex-col justify-between">
                     <div className="space-y-2">
@@ -32,6 +36,12 @@ const Contact = () => {
                 </form>
             </div>
            
+           <br></br>
+           <br></br>
+           <Subscribe></Subscribe>
+            <br></br>
+            <br></br>
+       <FAQ></FAQ>
         </div>
 
     );

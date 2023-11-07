@@ -30,18 +30,14 @@ const Header = () => {
                                 <Link to="/services" className="flex items-center px-4 -mb-1 border-b-2 border-transparent text-rose-600 border-rose-600">Services</Link>
                             </li>
                             <li className="flex">
+                                <Link to="/projects" className="flex items-center px-4 -mb-1 border-b-2 border-transparent text-rose-600 border-rose-600">Projects</Link>
+                            </li>
+                            <li className="flex">
                                 <Link to="/blogs" className="flex items-center px-4 -mb-1 border-b-2 border-transparent text-rose-600 border-rose-600">Blogs</Link>
                             </li>
                             <li className="flex">
                                 <Link to="/contact" className="flex items-center px-4 -mb-1 border-b-2 border-transparent text-rose-600 border-rose-600">Contact Us</Link>
                             </li>
-
-                            {
-                                user ? <li className="flex">
-                                    <Link to="/profile" className="flex items-center px-4 -mb-1 border-b-2 border-transparent text-rose-600 border-rose-600">User Profile</Link>
-                                </li>:
-                                <div></div>
-                            }
                             
                         </ul>
                     </div>

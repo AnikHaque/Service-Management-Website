@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import WorksCard from './WorksCard';
 import Teams from '../Teams/Teams';
 import { Pricing } from './Pricing';
+import { OurWorks } from './OurWorks';
 
 const Works = () => {
     const [works, setworks] = useState([]);
@@ -22,6 +23,10 @@ const Works = () => {
                     </WorksCard>)
                 }
             </div>
+            <br></br>
+            <br></br>
+            <br></br>
+            <OurWorks></OurWorks>
             <br></br>
             <br></br>
             <br></br>

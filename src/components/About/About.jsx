@@ -1,8 +1,8 @@
 import React from "react";
-import  Solutions  from "./Solutions";
+
 import { Featured } from "./Featured";
 import { AboutBanner } from "./AboutBanner";
-import { Pricing } from "./Pricing";
+
 import { Stat } from "./Stat";
 
 const About = () => {

@@ -17,7 +17,7 @@ export const OurWorks = () => {
                       <div
                           className="mx-auto max-w-lg text-center lg:mx-0 ltr:lg:text-left rtl:lg:text-right"
                       >
-                          <h2 className="text-3xl font-bold sm:text-4xl">Find your career path</h2>
+                          <h2 className="text-3xl font-bold sm:text-4xl">Find your Desired Events</h2>
 
                           <p className="mt-4 text-gray-600">
                               Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut vero
@@ -60,7 +60,7 @@ export const OurWorks = () => {
                                   </svg>
                               </span>
 
-                              <h2 className="mt-2 font-bold">Accountant</h2>
+                              <h2 className="mt-2 font-bold">Wedding</h2>
 
                               <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
                                   Lorem ipsum dolor sit amet consectetur.
@@ -92,7 +92,7 @@ export const OurWorks = () => {
                                   </svg>
                               </span>
 
-                              <h2 className="mt-2 font-bold">Accountant</h2>
+                              <h2 className="mt-2 font-bold">Graduation</h2>
 
                               <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
                                   Lorem ipsum dolor sit amet consectetur.
@@ -124,7 +124,7 @@ export const OurWorks = () => {
                                   </svg>
                               </span>
 
-                              <h2 className="mt-2 font-bold">Accountant</h2>
+                              <h2 className="mt-2 font-bold">Baby Shower</h2>
 
                               <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
                                   Lorem ipsum dolor sit amet consectetur.
@@ -156,7 +156,7 @@ export const OurWorks = () => {
                                   </svg>
                               </span>
 
-                              <h2 className="mt-2 font-bold">Accountant</h2>
+                              <h2 className="mt-2 font-bold">Retirement Party</h2>
 
                               <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
                                   Lorem ipsum dolor sit amet consectetur.
@@ -188,7 +188,7 @@ export const OurWorks = () => {
                                   </svg>
                               </span>
 
-                              <h2 className="mt-2 font-bold">Accountant</h2>
+                              <h2 className="mt-2 font-bold">Engagement</h2>
 
                               <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
                                   Lorem ipsum dolor sit amet consectetur.
@@ -220,7 +220,7 @@ export const OurWorks = () => {
                                   </svg>
                               </span>
 
-                              <h2 className="mt-2 font-bold">Accountant</h2>
+                              <h2 className="mt-2 font-bold">Birthday</h2>
 
                               <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
                                   Lorem ipsum dolor sit amet consectetur.
