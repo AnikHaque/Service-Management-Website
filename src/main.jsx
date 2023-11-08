@@ -22,7 +22,7 @@ import Contact from './components/Contact/Contact';
 import Pages from './components/Pages/Pages';
 import Works from './components/Works/Works';
 import Profile from './components/Profile/Profile';
-import { Blogs } from './components/Blogs/Blogs';
+import Blogs  from './components/Blogs/Blogs';
 import Services from './components/Services/Services';
 import About from './components/About/About';
 import { Projects } from './components/Projects/Projects';
